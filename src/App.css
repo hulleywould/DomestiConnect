@@ -1,0 +1,30 @@
+.loginContainer {
+  background-image: url('https://images.pexels.com/photos/301703/pexels-photo-301703.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb');
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+}
+
+.loginText {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.loginLogo {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+h4 {
+  margin: 0;
+  padding: 0;
+  color: rgb(255, 102, 0);
+}
